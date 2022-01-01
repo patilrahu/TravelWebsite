@@ -1,3 +1,3 @@
 # travelwebsite
 this travel website...
-https://github.com/patilrahu/travelwebsite/newapp/templates/index.html.git/ this is preview 
+ 
